@@ -6,7 +6,7 @@ This project renders a rotating ASCII donut animation using Python and Pygame. T
 
 
 ### 2. Output
-![Rotating Donut](Video/Rotating_Donut.gif)
+<img src="Video/Rotating_Donut.gif" alt="Rotating Donut" width="300"/>
 
 ### 3. How to Use
 1. Clone the repository
