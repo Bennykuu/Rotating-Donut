@@ -2,9 +2,6 @@
 
 This project renders a rotating ASCII donut animation using Python and Pygame. The donut is created with ASCII characters based on depth shading.
 
-### 1. How It Works
-
-
 ### 2. Output
 <img src="Video/Rotating_Donut.gif" alt="Rotating Donut" width="300"/>
 
